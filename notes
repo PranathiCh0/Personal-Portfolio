@@ -1,0 +1,11 @@
+.header-content .image img {
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+    max-width: 9500px; /* Adjust this value to your desired size */
+    max-height: 9000px; /* Adjust this value to your desired size */
+    margin-top: 350px;
+    margin-left: -300px;
+  }
+
+  
